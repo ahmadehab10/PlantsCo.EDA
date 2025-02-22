@@ -12,6 +12,8 @@ This repository contains SQL queries for an in-depth EDA and business performanc
 - **Monthly Profit Trends**: Tracks profitability over time.
 - **Rolling Profit Calculation**: Cumulative profit trend across months.
 - **Top Profitable Products & Product Types**: Ranks products and product families based on total profit.
+- ![Screenshot 2025-02-22 152006](https://github.com/user-attachments/assets/c265041d-baba-482a-a571-49ee3472524b)
+
 
 ### Account & Sales Insights
 - **Top 10 Accounts by Revenue & Profit**: Highlights high-value customers.
