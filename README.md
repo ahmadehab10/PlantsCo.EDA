@@ -1,4 +1,4 @@
-# SQL Performance & Profitability Analysis
+# Plants Co. SQL Performance & Profitability Analysis
 ## Analyzing revenue, profit trends, and customer churn
 
 This repository contains SQL queries for an in-depth EDA and business performance analysis using a sales dataset. The queries cover profitability analysis, customer churn, product performance, and account insights to optimize business decisions.
