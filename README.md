@@ -35,13 +35,7 @@ This repository contains SQL queries for an in-depth EDA and business performanc
 
 ---
 
-## Project Structure
-- `profit_analysis.sql` → Profit margins, revenue trends
-- `customer_analysis.sql` → Customer retention, churn rates
-- `product_analysis.sql` → Product performance insights
-- `monthly_trends.sql` → Time-based sales trends
 
----
 
 ## Insights & Recommendations
 - **Retention Strategies:** Implement loyalty programs for high-churn countries.
