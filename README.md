@@ -27,24 +27,27 @@ This repository contains SQL queries for an in-depth EDA and business performanc
 ### Churn & Retention Analysis
 - **Churned Customers & Churn Rate per Country**: Finds customers who haven't purchased in over two years and calculates country-level churn rates.
 - **Retention Strategies**: Identifies potential strategies like discounts for churned customers.
+![Screenshot 2025-02-22 152530](https://github.com/user-attachments/assets/ffa87eb8-d3a9-46f4-82f8-915f62024f45)
+![image](https://github.com/user-attachments/assets/951c9e49-81b0-4e88-8c7f-cfc19e790caf)
 
 ### Product Performance
 - **Top 10 Product Categories by Sales**: Identifies high-demand categories.
 - **Underperforming Products in High-Demand Categories**: Highlights products that need improvement or better marketing strategies.
+![image](https://github.com/user-attachments/assets/86ab2717-5b3e-4a1c-98bb-c50fc9352e37)
 
 ---
 
 ## Technologies Used
-- SQL (MySQL / PostgreSQL compatible syntax)
+- SQL (MySQL)
 - Common Table Expressions (CTEs)
-- Window Functions (`RANK()`, `DENSE_RANK()`, `SUM() OVER()`)
-- Joins & Aggregations (`GROUP BY`, `AVG()`, `COUNT()`)
+- Window Functions 
+- Joins & Aggregations 
 
 ---
 
 
 
 ## Insights & Recommendations
-- **Retention Strategies:** Implement loyalty programs for high-churn countries.
+- **Retention Strategies:** Implement loyalty programs for high-churn rate countries.
 - **Upselling Opportunities:** Target accounts with frequent orders but low sales.
 - **Product Pricing Optimization:** Adjust pricing for underperforming products in high-demand categories.
